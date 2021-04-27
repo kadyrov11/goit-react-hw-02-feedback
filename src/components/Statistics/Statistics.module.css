@@ -1,0 +1,8 @@
+.text {
+  width: 300px;
+  margin: 5px 0;
+  background-color: rgba(43, 47, 109, 0.733);
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+}
